@@ -1,0 +1,72 @@
+--2014-02-26 09:46:48--  http://planitroad.bureauco.com/UAT/Temp_Image/download_test_tiny.png
+Resolving planitroad.bureauco.com (planitroad.bureauco.com)... 103.5.80.11
+Connecting to planitroad.bureauco.com (planitroad.bureauco.com)|103.5.80.11|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100982 (99K) [image/png]
+Saving to: ‘download_test_tiny.png.1’
+
+     0K .......... .......... .......... .......... .......... 50%  183K 0s
+    50K .......... .......... .......... .......... ........  100% 15.7K=3.4s
+
+2014-02-26 09:46:53 (29.3 KB/s) - ‘download_test_tiny.png.1’ saved [100982/100982]
+
+--2014-02-26 09:48:06--  http://planitroad.bureauco.com/UAT/Temp_Image/download_test_tiny.png
+Resolving planitroad.bureauco.com (planitroad.bureauco.com)... 103.5.80.11
+Connecting to planitroad.bureauco.com (planitroad.bureauco.com)|103.5.80.11|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100982 (99K) [image/png]
+Saving to: ‘download_test_tiny.png.2’
+
+     0K .......... .......... .......... .......... .......... 50% 23.9K 2s
+    50K .......... .......... .......... .......... ........  100% 34.6K=3.5s
+
+2014-02-26 09:48:10 (28.2 KB/s) - ‘download_test_tiny.png.2’ saved [100982/100982]
+
+--2014-02-26 09:48:41--  http://planitroad.bureauco.com/UAT/Temp_Image/download_test_tiny.png
+Resolving planitroad.bureauco.com (planitroad.bureauco.com)... 103.5.80.11
+Connecting to planitroad.bureauco.com (planitroad.bureauco.com)|103.5.80.11|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100982 (99K) [image/png]
+Saving to: ‘download_test_tiny.png.3’
+
+     0K .......... .......... .......... .......... .......... 50% 7.80K 6s
+    50K .......... .......... .......... .......... ........  100% 35.7K=7.8s
+
+2014-02-26 09:48:49 (12.7 KB/s) - ‘download_test_tiny.png.3’ saved [100982/100982]
+
+--2014-02-26 09:48:59--  http://planitroad.bureauco.com/UAT/Temp_Image/download_test_tiny.png
+Resolving planitroad.bureauco.com (planitroad.bureauco.com)... 103.5.80.11
+Connecting to planitroad.bureauco.com (planitroad.bureauco.com)|103.5.80.11|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100982 (99K) [image/png]
+Saving to: ‘download_test_tiny.png.4’
+
+     0K .......... .......... .......... .......... .......... 50% 57.7K 1s
+    50K .......... .......... .......... .......... ........  100%  313K=1.0s
+
+2014-02-26 09:49:00 (96.5 KB/s) - ‘download_test_tiny.png.4’ saved [100982/100982]
+
+--2014-02-26 09:49:07--  http://planitroad.bureauco.com/UAT/Temp_Image/download_test_tiny.png
+Resolving planitroad.bureauco.com (planitroad.bureauco.com)... 103.5.80.11
+Connecting to planitroad.bureauco.com (planitroad.bureauco.com)|103.5.80.11|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100982 (99K) [image/png]
+Saving to: ‘download_test_tiny.png.5’
+
+     0K .......... .......... .......... .......... .......... 50% 15.9K 3s
+    50K .......... .......... .......... .......... ........  100% 39.4K=4.4s
+
+2014-02-26 09:49:11 (22.5 KB/s) - ‘download_test_tiny.png.5’ saved [100982/100982]
+
+--2014-02-26 10:07:01--  http://planitroad.bureauco.com/UAT/Temp_Image/download_test_tiny.png
+Resolving planitroad.bureauco.com (planitroad.bureauco.com)... 103.5.80.11
+Connecting to planitroad.bureauco.com (planitroad.bureauco.com)|103.5.80.11|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100982 (99K) [image/png]
+Saving to: ‘/home/ubuntu/ibm_download_test.png’
+
+     0K .......... .......... .......... .......... .......... 50%  418K 0s
+    50K .......... .......... .......... .......... ........  100%  104K=0.6s
+
+2014-02-26 10:07:02 (168 KB/s) - ‘/home/ubuntu/ibm_download_test.png’ saved [100982/100982]
+
